@@ -1,6 +1,6 @@
 # Tap, Tap
 
-**Download**: [![Latest release](https://img.shields.io/github/release/KieronQuinn/TapTap.svg?maxAge=3600&label=download)](https://github.com/KieronQuinn/TapTap/releases)
+**Download**: [![Latest release] ](https://github.com/ebbieaden/AdenaTap/releases)
 
 ---
 
@@ -33,7 +33,7 @@ Tap, Tap also tries to be easy on the battery, only running the gesture detectio
 
 [Example video, showing launching the camera on double tap](https://streamable.com/4jd1mu)
 
-[XDA thread](https://kieronquinn.co.uk/redirect/TapTap/xda)
+
 
 ## Reporting issues and feature requests
 
